@@ -1,0 +1,10 @@
+Ich mag Schwimmen.|True
+Tennis ist eine meiner Lieblingssportarten.|True
+Es ist toll, im Wasser zu sein und sich zu bewegen.|True
+Ich spiele gerne Tennis mit Freunden.|True
+Tennis macht viel Spaß!|True
+Ich mag Skifahren.|False
+Fußball ist meine Lieblingssportart.|False
+Es ist langweilig, im Wasser zu sein.|False
+Ich spiele nie Tennis mit Freunden.|False
+Tennis macht keinen Spaß.|False

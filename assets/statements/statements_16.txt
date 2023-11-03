@@ -1,0 +1,10 @@
+Meine Lieblingssportart ist Schwimmen.|True
+Schwimmen ist eine erfrischende Aktivität.|True
+Es ist gesund, regelmäßig zu schwimmen.|True
+Ich fühle mich im Wasser wohl.|True
+Schwimmen macht mir Spaß.|True
+Meine Lieblingssportart ist Fußball.|False
+Schwimmen ist eine langweilige Aktivität.|False
+Es ist ungesund, zu schwimmen.|False
+Ich fühle mich unwohl im Wasser.|False
+Ich hasse es, schwimmen zu gehen.|False

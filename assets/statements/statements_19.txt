@@ -1,0 +1,10 @@
+Das letzte Konzert, das ich besucht habe, war von meiner Lieblingsband.|True
+Die Atmosphäre auf dem Konzert war unglaublich.|True
+Ich hatte eine großartige Zeit, ihre Musik live zu erleben.|True
+Es war ein unvergessliches Erlebnis.|True
+Ich war begeistert von der Performance der Band.|True
+Das letzte Konzert, das ich besucht habe, war von einer unbekannten Band.|False
+Die Atmosphäre auf dem Konzert war langweilig.|False
+Ich hatte keine gute Zeit auf dem Konzert.|False
+Es war ein enttäuschendes Erlebnis.|False
+Die Performance der Band war schlecht.|False

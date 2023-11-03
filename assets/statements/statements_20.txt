@@ -1,0 +1,10 @@
+Mit meinen Freunden gehe ich gerne ins Kino.|True
+Wir machen gerne Picknicks im Park.|True
+Gemütliche Abende bei Spielen und Unterhaltungen sind beliebt.|True
+Es ist schön, Zeit mit meinen Freunden zu verbringen.|True
+Gemeinsam Spaß zu haben ist uns wichtig.|True
+Ich verbringe keine Zeit mit meinen Freunden.|False
+Ins Kino gehen ist nicht mein Ding.|False
+Picknicks im Park finde ich langweilig.|False
+Gemütliche Abende mit Spielen und Unterhaltungen mag ich nicht.|False
+Ich habe keinen Spaß, wenn ich mit meinen Freunden bin.|False

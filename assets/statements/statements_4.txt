@@ -1,0 +1,10 @@
+Mein Lieblingsfilm ist "Die Verwandlung der Schmetterlinge".|True
+Es ist eine lustige Geschichte über Abenteuer.|False
+Der Film handelt von Liebe und Romantik.|False
+Die Botschaft des Films regt zum Nachdenken an.|True
+Ich mag, wie der Film Träume und Transformation zeigt.|True
+Mein Lieblingsfilm ist ein Science-Fiction-Film.|False
+Der Film hat keine besondere Bedeutung für mich.|False
+Es ist ein spannender Actionfilm mit viel Gewalt.|False
+Ich finde den Film langweilig und nicht berührend.|False
+Der Film handelt von historischen Ereignissen.|False

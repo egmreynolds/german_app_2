@@ -1,0 +1,10 @@
+Als Kind habe ich gerne draußen gespielt.|True
+Ich bin gerne Fahrrad gefahren als Kind.|True
+Verstecken spielen hat mir als Kind viel Spaß gemacht.|True
+Ich habe immer die frische Luft genossen als Kind.|True
+Ich habe gerne im Freien gespielt als Kind.|True
+Als Kind habe ich lieber drinnen gespielt.|False
+Fahrrad fahren war mir langweilig als Kind.|False
+Verstecken spielen war für mich uninteressant als Kind.|False
+Ich habe die frische Luft als Kind nicht gemocht.|False
+Ich habe nie im Freien gespielt als Kind.|False

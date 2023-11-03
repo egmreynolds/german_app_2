@@ -1,0 +1,10 @@
+Meine Lieblingsmusik ist Pop.|True
+Ich höre gerne bekannte Hits.|True
+Manchmal singe ich mit meiner Lieblingsmusik.|True
+Musik hilft mir, mich zu entspannen.|True
+Musik bringt mir gute Laune.|True
+Meine Lieblingsmusik ist Klassik.|False
+Ich höre keine bekannten Hits.|False
+Ich kann nicht singen.|False
+Musik macht mich gestresst.|False
+Musik hat keinen Einfluss auf meine Stimmung.|False

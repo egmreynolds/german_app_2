@@ -1,0 +1,10 @@
+Ja, ich kann Klavier spielen.|True
+Ich habe als Kind damit begonnen.|True
+Ich spiele immer noch gerne Klavier.|True
+Musik zu machen ist ein wunderbares Gefühl.|True
+Ich drücke meine Emotionen durch die Tasten aus.|True
+Nein, ich kann kein Musikinstrument spielen.|False
+Ich habe nie ein Instrument gespielt.|False
+Musik machen ist für mich uninteressant.|False
+Ich drücke meine Emotionen nicht durch Musik aus.|False
+Ja, ich kann jedes Musikinstrument spielen.|False

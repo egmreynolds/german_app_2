@@ -1,0 +1,10 @@
+Ich komme mit dem Fahrrad zur Arbeit/Schule.|True
+Das Fahrradfahren ist umweltfreundlich.|True
+Es ist eine praktische Art der Fortbewegung.|True
+Radfahren macht Spaß und hält mich fit.|True
+Mit dem Fahrrad zu kommen ist bequem.|True
+Ich komme immer mit dem Auto zur Arbeit/Schule.|False
+Andere Verkehrsmittel sind umweltfreundlicher.|False
+Es ist unpraktisch, mit dem Fahrrad zu kommen.|False
+Radfahren ist langweilig und anstrengend.|False
+Ich habe kein Fahrrad.|False

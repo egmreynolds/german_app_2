@@ -1,0 +1,10 @@
+Zum Frühstück esse ich gerne Müsli mit frischem Obst und Joghurt.|True
+Es ist eine gesunde Wahl für den Start in den Tag.|True
+Müsli gibt mir Energie für den Tag.|True
+Frisches Obst im Müsli schmeckt lecker.|True
+Ich esse immer Müsli zum Frühstück.|False
+Andere Lebensmittel geben mir mehr Energie für den Tag.|False
+Ich esse nie frisches Obst zum Frühstück.|False
+Müsli schmeckt mir nicht.|False
+Ich bevorzuge ein herzhaftes Frühstück.|False
+Zum Frühstück esse ich immer Kuchen.|False

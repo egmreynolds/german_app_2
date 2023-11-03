@@ -1,0 +1,10 @@
+Am liebsten verbringe ich meinen Urlaub am Meer.|True
+Ich entspanne gerne am Strand.|True
+Ich plansche gerne im Wasser.|True
+Ich genieße die Sonne am Strand.|True
+Ich fühle mich immer wohl, wenn ich ans Meer gehe.|True
+Ich gehe am liebsten in den Urlaub in die Berge.|False
+Ich finde es herrlich, in der Wüste zu entspannen.|False
+Ich mag es, im Schnee Ski zu fahren.|False
+Ich bevorzuge Städtereisen für meinen Urlaub.|False
+Ich fühle mich unwohl am Strand.|False

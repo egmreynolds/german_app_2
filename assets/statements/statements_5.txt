@@ -1,0 +1,10 @@
+Ich mag die lebendige Atmosphäre meiner Stadt.|True
+In meiner Stadt gibt es viele kulturelle Veranstaltungen.|True
+Es gibt immer etwas zu entdecken in meiner Stadt.|True
+Ich genieße Festivals, Konzerte und Märkte in meiner Stadt.|True
+Es ist schön, dass es immer etwas zu tun gibt in meiner Stadt.|True
+Die Atmosphäre meiner Stadt ist langweilig.|False
+Es gibt keine kulturellen Veranstaltungen in meiner Stadt.|False
+Es gibt nichts zu entdecken in meiner Stadt.|False
+Festivals, Konzerte und Märkte interessieren mich nicht.|False
+Es gibt nichts zu tun in meiner Stadt.|False

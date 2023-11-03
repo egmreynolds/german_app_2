@@ -1,0 +1,10 @@
+Ich möchte gerne Spanisch lernen.|True
+Französisch zu lernen steht auf meiner Liste.|True
+Es sind schöne Sprachen zum Lernen.|True
+Ich möchte mich mit Menschen aus verschiedenen Ländern verständigen können.|True
+Das Lernen von Fremdsprachen bereichert mein Leben.|True
+Ich möchte Deutsch lernen.|False
+Spanisch und Französisch sind uninteressante Sprachen.|False
+Ich möchte keine Fremdsprachen lernen.|False
+Ich kann bereits Spanisch und Französisch sprechen.|False
+Das Lernen von Fremdsprachen ist verschwendete Zeit.|False

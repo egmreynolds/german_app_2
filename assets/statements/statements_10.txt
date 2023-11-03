@@ -1,0 +1,10 @@
+Mein Lieblingsbuch ist "Der kleine Prinz".|True
+Es ist eine wunderschöne Geschichte über Freundschaft.|True
+Das Buch handelt von dem Wert der Einfachheit.|True
+Ich finde es inspirierend.|True
+Ich lese es immer wieder gerne.|True
+"Der kleine Prinz" ist ein Krimi.|False
+Es ist eine traurige Geschichte.|False
+Das Buch hat keine Botschaft.|False
+Ich lese es nie wieder.|False
+Ich mag keine Bücher.|False

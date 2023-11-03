@@ -1,0 +1,10 @@
+Meine Hobbys sind Lesen.|True
+Ich zeichne gerne in meiner Freizeit.|True
+Sport treiben macht mir Spaß.|True
+Ich tauche gerne in verschiedene Welten beim Lesen ein.|True
+Ich erschaffe gerne kreative Dinge.|True
+Meine Hobbys sind Kochen und Backen.|False
+Ich habe kein Interesse am Zeichnen.|False
+Sport treiben ist für mich langweilig.|False
+Ich lese nie Bücher.|False
+Ich bin nicht kreativ.|False

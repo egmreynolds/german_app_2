@@ -1,0 +1,10 @@
+Du hast gestern Fußball mit deinen Freunden gespielt.|True
+Ihr habt euch nach dem Fußballspiel im Kino einen Film angesehen.|True
+Es war ein spaßiger Tag.|True
+Du hast dich gestern mit deinen Freunden getroffen.|True
+Fußballspielen und Film anschauen waren Teil deines gestrigen Tages.|True
+Du hast gestern alleine Fußball gespielt.|False
+Ihr habt euch nach dem Fußballspiel im Park einen Film angesehen.|False
+Es war ein langweiliger Tag.|False
+Du hast dich gestern mit deiner Familie getroffen.|False
+Ihr seid gestern schwimmen gegangen.|False

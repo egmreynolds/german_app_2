@@ -1,0 +1,6 @@
+Statement1,true
+Statement2,false
+Statement3,true
+Statement4,false
+Statement5,true
+Statement6,false

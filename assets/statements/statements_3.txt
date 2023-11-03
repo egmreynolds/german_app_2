@@ -1,0 +1,10 @@
+Ich lerne Deutsch seit einem Jahr.|True
+Es ist manchmal schwierig, Deutsch zu lernen.|True
+Ich bin motiviert, meine Deutschkenntnisse zu verbessern.|True
+Neue Wörter zu lernen macht Spaß.|True
+Ich spreche gerne Deutsch mit anderen.|True
+Ich lerne Deutsch seit zwei Jahren.|False
+Es ist immer einfach, Deutsch zu lernen.|False
+Ich habe keine Motivation, meine Sprachkenntnisse zu verbessern.|False
+Das Lernen neuer Wörter ist langweilig.|False
+Ich spreche nie Deutsch mit anderen.|False

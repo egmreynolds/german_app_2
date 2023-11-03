@@ -1,0 +1,10 @@
+Am Wochenende treffe ich mich oft mit Freunden.|True
+Gemeinsam gehen wir ins Kino.|True
+Wir machen Ausflüge am Wochenende.|True
+Zeit mit Freunden zu verbringen ist schön.|True
+Es ist eine gute Gelegenheit, den Alltagsstress hinter sich zu lassen.|True
+Am Wochenende bleibe ich immer zu Hause.|False
+Ich gehe nie ins Kino mit Freunden.|False
+Ich mache nie Ausflüge am Wochenende.|False
+Zeit mit Freunden zu verbringen ist langweilig.|False
+Der Alltagsstress ist am Wochenende noch schlimmer.|False

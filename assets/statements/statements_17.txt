@@ -1,0 +1,10 @@
+Mein schönster Urlaub war in Italien.|True
+Ich habe die malerischen Landschaften in Italien genossen.|True
+Das Essen in Italien war lecker.|True
+Die Menschen in Italien waren freundlich.|True
+Ich habe mich in Italien sehr wohl gefühlt.|True
+Mein schönster Urlaub war in Spanien.|False
+Die Landschaften in Italien waren langweilig.|False
+Das Essen in Italien war schlecht.|False
+Die Menschen in Italien waren unfreundlich.|False
+Ich habe mich in Italien nicht wohl gefühlt.|False

@@ -1,0 +1,10 @@
+Meine Lieblingsjahreszeit ist der Frühling.|True
+Im Frühling erwacht alles zum Leben.|True
+Die Natur wird bunt im Frühling.|True
+Man kann das angenehme Wetter im Frühling genießen.|True
+Ich mag die blühenden Blumen im Frühling.|True
+Meine Lieblingsjahreszeit ist der Winter.|False
+Im Frühling ist alles grau und trist.|False
+Die Natur ist im Frühling langweilig.|False
+Das Wetter im Frühling ist unangenehm.|False
+Ich mag keine blühenden Blumen im Frühling.|False
